@@ -5,3 +5,23 @@ h1{
     color:pink;
     font-size: 25px;
 }
+div{
+    width:200px;
+    height: 200px;
+    background-color: white;
+    padding-left: 20px ;
+    margin-left: 200px;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+ ul li{
+    color: red;
+}
+ol li{
+    color: green;
+}
+.first-list-color{
+    color: white;
+}
